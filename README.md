@@ -1,2 +1,2 @@
 # Date-Detection
-Detecting dates on receipts
+Detecting dates on bills
